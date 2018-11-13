@@ -26,3 +26,15 @@ sadasdsadsadsad
 s
 addEventListenerdsadsad
 sa
+d
+sa
+debuggersadssa
+d
+sadasdsadsadssads
+addEventListenerdsadds
+addEventListeners
+ad
+sadasdsadsadssadssa
+const [propertyName] = d
+sad
+;
